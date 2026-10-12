@@ -1,0 +1,2360 @@
+{
+  "students": [
+    {
+      "id": "s1",
+      "roll": "CB26001",
+      "name": "Aarav Sharma",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student1@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.5,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s2",
+      "roll": "CB26002",
+      "name": "Diya Patel",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student2@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.6,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s3",
+      "roll": "CB26003",
+      "name": "Arjun Rao",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student3@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.7,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s4",
+      "roll": "CB26004",
+      "name": "Ananya Iyer",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student4@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.8,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s5",
+      "roll": "CB26005",
+      "name": "Kabir Mehta",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student5@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.9,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s6",
+      "roll": "CB26006",
+      "name": "Ishaan Nair",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student6@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s7",
+      "roll": "CB26007",
+      "name": "Meera Reddy",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student7@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.1,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s8",
+      "roll": "CB26008",
+      "name": "Rohan Gupta",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student8@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.2,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s9",
+      "roll": "CB26009",
+      "name": "Saanvi Joshi",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student9@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.3,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s10",
+      "roll": "CB26010",
+      "name": "Vihaan Shah",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student10@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.4,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s11",
+      "roll": "CB26011",
+      "name": "Aditya Kumar",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student11@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.5,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s12",
+      "roll": "CB26012",
+      "name": "Aisha Khan",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student12@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.6,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s13",
+      "roll": "CB26013",
+      "name": "Dev Malhotra",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student13@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.7,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s14",
+      "roll": "CB26014",
+      "name": "Ira Menon",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student14@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.8,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s15",
+      "roll": "CB26015",
+      "name": "Kavya Rao",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student15@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.9,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s16",
+      "roll": "CB26016",
+      "name": "Neel Kapoor",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student16@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.5,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s17",
+      "roll": "CB26017",
+      "name": "Nisha Das",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student17@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.6,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s18",
+      "roll": "CB26018",
+      "name": "Pranav Singh",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student18@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.7,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s19",
+      "roll": "CB26019",
+      "name": "Riya Jain",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student19@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.8,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s20",
+      "roll": "CB26020",
+      "name": "Sahil Verma",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student20@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 7.9,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s21",
+      "roll": "CB26021",
+      "name": "Sara Ali",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student21@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s22",
+      "roll": "CB26022",
+      "name": "Tanvi Desai",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student22@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.1,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s23",
+      "roll": "CB26023",
+      "name": "Varun Bhat",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2026",
+      "email": "student23@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.2,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s24",
+      "roll": "CB26024",
+      "name": "Ved Sethi",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2026",
+      "email": "student24@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.3,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s25",
+      "roll": "CB25025",
+      "name": "Yash Agarwal",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2025",
+      "email": "student25@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.4,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s26",
+      "roll": "CB25026",
+      "name": "Zoya Hussain",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2025",
+      "email": "student26@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.5,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s27",
+      "roll": "CB25027",
+      "name": "Anika Bose",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2025",
+      "email": "student27@campusbridge.example",
+      "registered": true,
+      "eligible": true,
+      "cgpa": 8.6,
+      "backlogs": 0,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s28",
+      "roll": "CB25028",
+      "name": "Dhruv Arora",
+      "department": "Computer Science",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2025",
+      "email": "student28@campusbridge.example",
+      "registered": true,
+      "eligible": false,
+      "cgpa": 8.7,
+      "backlogs": 2,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s29",
+      "roll": "CB25029",
+      "name": "Maya Pillai",
+      "department": "Electronics",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "A",
+      "batch": "2025",
+      "email": "student29@campusbridge.example",
+      "registered": false,
+      "eligible": false,
+      "cgpa": 8.8,
+      "backlogs": 2,
+      "skills": "JavaScript, Python, SQL, CAD"
+    },
+    {
+      "id": "s30",
+      "roll": "CB25030",
+      "name": "Reyansh Sinha",
+      "department": "Mechanical",
+      "program": "B.Tech",
+      "year": "4",
+      "section": "B",
+      "batch": "2025",
+      "email": "student30@campusbridge.example",
+      "registered": true,
+      "eligible": false,
+      "cgpa": 8.9,
+      "backlogs": 2,
+      "skills": "JavaScript, Python, SQL, CAD"
+    }
+  ],
+  "drives": [
+    {
+      "id": "d1",
+      "company": "Google",
+      "role": "Software Engineer",
+      "location": "Bengaluru",
+      "package": 24,
+      "status": "Completed",
+      "departments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ],
+      "batches": [
+        "2026",
+        "2025"
+      ],
+      "minCgpa": 7.5,
+      "maxBacklogs": 0,
+      "skills": "",
+      "deadline": "2026-12-15",
+      "stages": "Assessment, Technical interview, HR interview",
+      "published": true
+    },
+    {
+      "id": "d2",
+      "company": "Microsoft",
+      "role": "Graduate Engineer",
+      "location": "Hyderabad",
+      "package": 20,
+      "status": "In Progress",
+      "departments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ],
+      "batches": [
+        "2026",
+        "2025"
+      ],
+      "minCgpa": 7.5,
+      "maxBacklogs": 0,
+      "skills": "",
+      "deadline": "2026-12-15",
+      "stages": "Assessment, Technical interview, HR interview",
+      "published": true
+    },
+    {
+      "id": "d3",
+      "company": "Deloitte",
+      "role": "Technology Analyst",
+      "location": "Pune",
+      "package": 8,
+      "status": "Open",
+      "departments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ],
+      "batches": [
+        "2026",
+        "2025"
+      ],
+      "minCgpa": 7,
+      "maxBacklogs": 0,
+      "skills": "",
+      "deadline": "2026-12-15",
+      "stages": "Assessment, Technical interview, HR interview",
+      "published": true
+    },
+    {
+      "id": "d4",
+      "company": "Siemens",
+      "role": "Systems Engineer",
+      "location": "Chennai",
+      "package": 10,
+      "status": "Open",
+      "departments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ],
+      "batches": [
+        "2026",
+        "2025"
+      ],
+      "minCgpa": 7,
+      "maxBacklogs": 0,
+      "skills": "",
+      "deadline": "2026-12-15",
+      "stages": "Assessment, Technical interview, HR interview",
+      "published": true
+    },
+    {
+      "id": "d5",
+      "company": "Tata Motors",
+      "role": "Graduate Trainee",
+      "location": "Pune",
+      "package": 7.5,
+      "status": "Planned",
+      "departments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ],
+      "batches": [
+        "2026",
+        "2025"
+      ],
+      "minCgpa": 7,
+      "maxBacklogs": 0,
+      "skills": "",
+      "deadline": "2026-12-15",
+      "stages": "Assessment, Technical interview, HR interview",
+      "published": true
+    }
+  ],
+  "applications": [
+    {
+      "id": "a1",
+      "studentId": "s1",
+      "driveId": "d1",
+      "stage": "Offer Received",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a2",
+      "studentId": "s2",
+      "driveId": "d2",
+      "stage": "Joined",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a3",
+      "studentId": "s3",
+      "driveId": "d3",
+      "stage": "Selected",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a4",
+      "studentId": "s4",
+      "driveId": "d4",
+      "stage": "Interview in Progress",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a5",
+      "studentId": "s5",
+      "driveId": "d1",
+      "stage": "Shortlisted",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a6",
+      "studentId": "s6",
+      "driveId": "d2",
+      "stage": "Rejected",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "Assessment threshold not met.",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a7",
+      "studentId": "s7",
+      "driveId": "d3",
+      "stage": "Assessment Completed",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a8",
+      "studentId": "s8",
+      "driveId": "d4",
+      "stage": "Registered",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a9",
+      "studentId": "s9",
+      "driveId": "d1",
+      "stage": "Offer Received",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a10",
+      "studentId": "s10",
+      "driveId": "d2",
+      "stage": "Joined",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a11",
+      "studentId": "s11",
+      "driveId": "d3",
+      "stage": "Selected",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a12",
+      "studentId": "s12",
+      "driveId": "d4",
+      "stage": "Interview in Progress",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a13",
+      "studentId": "s13",
+      "driveId": "d1",
+      "stage": "Shortlisted",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a14",
+      "studentId": "s14",
+      "driveId": "d2",
+      "stage": "Rejected",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "Assessment threshold not met.",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a15",
+      "studentId": "s15",
+      "driveId": "d3",
+      "stage": "Assessment Completed",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a16",
+      "studentId": "s16",
+      "driveId": "d4",
+      "stage": "Registered",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a17",
+      "studentId": "s17",
+      "driveId": "d1",
+      "stage": "Offer Received",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a18",
+      "studentId": "s18",
+      "driveId": "d2",
+      "stage": "Joined",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a19",
+      "studentId": "s19",
+      "driveId": "d3",
+      "stage": "Selected",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a20",
+      "studentId": "s20",
+      "driveId": "d4",
+      "stage": "Interview in Progress",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a21",
+      "studentId": "s21",
+      "driveId": "d1",
+      "stage": "Shortlisted",
+      "package": 24,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a22",
+      "studentId": "s22",
+      "driveId": "d2",
+      "stage": "Rejected",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "Assessment threshold not met.",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a23",
+      "studentId": "s23",
+      "driveId": "d3",
+      "stage": "Assessment Completed",
+      "package": 8,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a24",
+      "studentId": "s24",
+      "driveId": "d4",
+      "stage": "Registered",
+      "package": 10,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z"
+    },
+    {
+      "id": "a25",
+      "studentId": "s1",
+      "driveId": "d2",
+      "stage": "Offer Received",
+      "package": 20,
+      "published": true,
+      "offerPublished": true,
+      "remarks": "Second offer received.",
+      "updated": "2026-10-11T10:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Library",
+      "mandatory": true
+    },
+    {
+      "id": "c2",
+      "name": "Laboratory & equipment",
+      "mandatory": true
+    },
+    {
+      "id": "c3",
+      "name": "Department",
+      "mandatory": true
+    },
+    {
+      "id": "c4",
+      "name": "Placement",
+      "mandatory": true
+    },
+    {
+      "id": "c5",
+      "name": "Accounts",
+      "mandatory": true
+    },
+    {
+      "id": "c6",
+      "name": "Hostel",
+      "mandatory": false
+    }
+  ],
+  "clearances": [
+    {
+      "studentId": "s1",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s1",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s1",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s1",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s1",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s1",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s2",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s3",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s4",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s5",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s6",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s7",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c5",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s8",
+      "categoryId": "c6",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s9",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s10",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c1",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c5",
+      "status": "Rejected / Further Action Required",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s11",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s12",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s13",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s14",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s15",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c1",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c5",
+      "status": "Rejected / Further Action Required",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s16",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s17",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s18",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s19",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s20",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c1",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c5",
+      "status": "Rejected / Further Action Required",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s21",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s22",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s23",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s24",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s25",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c1",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c5",
+      "status": "Rejected / Further Action Required",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s26",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c2",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s27",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c3",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s28",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c4",
+      "status": "Pending",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s29",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c1",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c2",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c3",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c4",
+      "status": "Cleared",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c5",
+      "status": "Pending",
+      "remarks": "Confirm outstanding fee balance.",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    },
+    {
+      "studentId": "s30",
+      "categoryId": "c6",
+      "status": "Not Applicable",
+      "remarks": "",
+      "updated": "2026-10-10T10:00:00Z",
+      "approvedBy": "Demo in-charge"
+    }
+  ],
+  "audit": [
+    {
+      "id": "seed",
+      "action": "Demonstration dataset initialized",
+      "actor": "System",
+      "date": "2026-10-12T10:00:00Z"
+    }
+  ]
+}
