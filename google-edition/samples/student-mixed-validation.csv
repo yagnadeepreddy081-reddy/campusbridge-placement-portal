@@ -1,0 +1,4 @@
+"roll","name","department","program","year","section","batch","email","registered","eligible","cgpa","backlogs","skills"
+"CB26031","New Student","Computer Science","B.Tech","4","A","2026","newstudent@campusbridge.example","true","true","8.2","0","Python, SQL"
+"CB26001","Duplicate Student","Computer Science","B.Tech","4","A","2026","student1@campusbridge.example","true","true","8","0","Python"
+"BAD","Invalid Student","Computer Science","B.Tech","4","A","2026","invalid-email","true","true","12","0","SQL"
