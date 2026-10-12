@@ -1,0 +1,7 @@
+import {seed,previewImport,previewPlacementImport,isQualified,IMPORT_HEADERS,PLACEMENT_HEADERS} from '../lib/model.ts';
+const s=seed();let results=[];const test=(name,fn)=>{try{const r=fn();results.push({name,...r})}catch(e){results.push({name,error:e.message})}};
+test('Duplicate emails inside one import file',()=>{const t=IMPORT_HEADERS.join(',')+'\nQA001,First,Computer Science,B.Tech,4,A,2026,same@qa.example,true,true,8,0,Python\nQA002,Second,Computer Science,B.Tech,4,A,2026,same@qa.example,true,true,8,0,Python';const rows=previewImport(t,s);return {expected:'second row rejected',actual:rows.map(r=>r.status),pass:rows[1].status==='failed'}});
+test('Exact skill names',()=>{const st={...s.students[0],skills:'JavaScript'};const d={...s.drives[2],skills:'Java'};const qualified=isQualified(st,d);return {expected:'JavaScript alone does not satisfy Java',actual:qualified,pass:!qualified}});
+test('Registration import into completed drive',()=>{const t=PLACEMENT_HEADERS.join(',')+'\nCB26002,Google,Software Engineer,Registered,0,true,false,';const rows=previewPlacementImport(t,s);return {expected:'reject new registration to completed drive',actual:rows[0].status,pass:rows[0].status==='failed'}});
+test('Registration import for ineligible student',()=>{const t=PLACEMENT_HEADERS.join(',')+'\nCB25028,Deloitte,Technology Analyst,Registered,0,true,false,';const rows=previewPlacementImport(t,s);return {expected:'reject ineligible student registration',actual:rows[0].status,pass:rows[0].status==='failed'}});
+console.log(JSON.stringify(results,null,2));
